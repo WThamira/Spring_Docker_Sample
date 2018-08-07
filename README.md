@@ -1,6 +1,6 @@
 # Spring_Docker_Sample
 
-,,, 
+```
 
 <docker.image.prefix>thamira</docker.image.prefix>
 
@@ -26,4 +26,4 @@
 		</configuration>
 	</plugin>
 
-,,,
+```
