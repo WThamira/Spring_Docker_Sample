@@ -2,9 +2,9 @@
 
 ```
 
-<docker.image.prefix>thamira</docker.image.prefix>
+	<docker.image.prefix>thamira</docker.image.prefix>
 
-<plugin>
+	<plugin>
 		<groupId>com.spotify</groupId>
 		<artifactId>dockerfile-maven-plugin</artifactId>
 		<version>1.3.6</version>
